@@ -3,6 +3,10 @@
 This project demonstrates how to containerize a simple static website using **Apache HTTP Server in Docker**, and deploy it on an **AWS EC2** instance using **Amazon Linux 2023**.
 
 > ✅ Live from: [http://<your-ec2-public-ip>](http://<your-ec2-public-ip>)
+Let’s say your EC2 public IP is 13.234.56.78, then change the line to:
+✅ Live from: [http://13.234.56.78](http://13.234.56.78)
+
+👉 You must replace <your-ec2-public-ip> with the actual IP address of your EC2 instance running Apache on port 80.
 
 ---
 
@@ -48,9 +52,10 @@ Connecting GitHub workflow to cloud-based deployments
 Debugging real network, DNS, and Git issues like a pro
 
 📌 Author
-👩‍💻 Asha 
-🔗 LinkedIn
-📁 GitHub Portfolio
+👩‍💻 **Asha D K**  
+🔗 [LinkedIn](https://www.linkedin.com/in/ashashree-d-k-3666012a6)  
+📁 [GitHub Portfolio](https://github.com/AshaShreeDK) 
+
 
 ⭐ If you found this project helpful or inspiring, consider giving it a star on GitHub!
 
